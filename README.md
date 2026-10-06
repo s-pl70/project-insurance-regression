@@ -9,5 +9,6 @@ Multiple linear regression project for Module 6: Data Modelling, Prediction, and
 **Files**
 - `insurance_regression.ipynb`: data cleaning, exploration, regression, and evaluation
 - `insurance.csv`: dataset (Lantz, 2013), from github.com/stedy/Machine-Learning-with-R-datasets
+- `Project Proposal.pdf` and `Summative report.pdf`: project plan and summary of results
 
 **Tools:** Python, pandas, matplotlib, seaborn, scikit-learn, statsmodels
